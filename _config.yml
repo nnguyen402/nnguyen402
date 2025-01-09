@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Nathan Nguyen
 description: Computer Science Student @ Georgia Institute of Technology
 image:
-  path: "./documents/professional_picture.jpg"
+  path: "professional_picture.jpg"
 author: ""
 show_downloads: true
