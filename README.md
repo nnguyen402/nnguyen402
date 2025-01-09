@@ -1,4 +1,4 @@
-#### Computer Science Student with Focus in AI and Media
+# Computer Science Student with Focus in AI and Media
 
 ## Education 
   - B.S. Computer Science Georgia Institute of Technology
