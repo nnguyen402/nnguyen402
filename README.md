@@ -1,3 +1,5 @@
+#### Computer Science Student with Focus in AI and Media
+
 ## Education 
   - B.S. Computer Science Georgia Institute of Technology
   - GPA: 3.8 
