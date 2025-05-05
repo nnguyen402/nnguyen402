@@ -1,8 +1,8 @@
-# Computer Science Student with Focus in AI and Media
+# Computer Science Student with Focus in AI and Information Internet Works
 
 ## Education 
   - B.S. Computer Science Georgia Institute of Technology
-  - GPA: 3.8 
+  - GPA: 3.75
   - Graduated from #1 Public High School in Georgia
 
 ## Experience
@@ -14,7 +14,10 @@
   - Front End Developer for Spotify Roaster Project
   - Full Stack Developer for Atlanta Food Finder Project
   - Photographer, Photo Editor, and Website Developer for Vertically Integrated Project
-  - Event Organizer and Member @ Asian Student Alliance
 
 ## Technical Skills
-  - Python, Java, HTML, CSS, Django, GitHub, Git, JavaScript, NumPy, Pandas, SQLite, Agile, C#
+  - Languages: Java, Python, C, C++, C#, HTML/CSS, Assembly, JavaScript, SQL
+  - Frameworks: Django, Tailwind CSS
+  - Libraries: PyTorch, pandas, NumPy, Matplotlib
+  - Dev Tools: Git, Docker
+  - Certs: Google IT Support (Coursera), Python with Op Sys, Unity Game Dev
