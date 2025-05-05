@@ -1,4 +1,4 @@
-# Computer Science Student with Focus in AI and Information Internet Works
+# Computer Science Student at Georgia Tech with a Focus in AI and Information Internet Works
 
 ## Education 
   - B.S. Computer Science Georgia Institute of Technology
@@ -21,3 +21,9 @@
   - Libraries: PyTorch, pandas, NumPy, Matplotlib
   - Dev Tools: Git, Docker
   - Certs: Google IT Support (Coursera), Python with Op Sys, Unity Game Dev
+
+## Other Stuff I Like...
+  - Fashion
+  - Photography
+  - Gaming
+  - Music
