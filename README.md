@@ -2,7 +2,7 @@
 
 ## Education 
   - B.S. Computer Science Georgia Institute of Technology
-  - GPA: 3.75
+  - GPA: 3.78
   - Graduated from #1 Public High School in Georgia
 
 ## Experience
