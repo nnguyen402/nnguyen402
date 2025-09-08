@@ -8,7 +8,6 @@
 - Software Development & Robotics Lead Instructor @ Whiz Learning Kids (2025 – Present)  
 - Software Development Tutor @ Code Wiz (2025 – Present)  
 - IT Intern @ Lovin Elementary School (2021)  
-- Retail Operations Specialist @ Publix  
 
 ## Projects
 - Habit Tracker App (Python, JSON, CLI)  
