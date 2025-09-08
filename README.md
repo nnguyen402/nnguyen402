@@ -2,7 +2,9 @@
 
 ## Education
 - B.S. Computer Science, Georgia Institute of Technology  
-- GPA: 3.78  
+- GPA: 3.78
+- Graduated from #1 Public High School in Georgia (Gwinnett School of Math Science and Technology)
+- Bits of Good Developer Bootcamper (GT Affiliated)
 
 ## Experience
 - Software Development & Robotics Lead Instructor @ Whiz Learning Kids (2025 – Present)  
