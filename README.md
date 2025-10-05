@@ -12,9 +12,12 @@
 - IT Intern @ Lovin Elementary School (2021)  
 
 ## Projects
+- (IP) Marta Route Analysis w/ React (React, TypeScript, Marta API)
+- (IP) Pokedex w/ React (React, TypeScript, Pokemon API)
+- PathFinder HackGT12 (Next.js, React, TypeScript, Node.js, Google Maps API, Arduino)
 - Habit Tracker App (Python, JSON, CLI)  
-- Spotify Roaster (Full Stack – Django, Tailwind, JS, Python)  
-- Atlanta Food Finder (Full Stack – Django, Google Maps API, JS)  
+- Spotify Roaster (Django, Tailwind, JS, Python, Spotify API)  
+- Atlanta Food Finder ( Django, Google Maps API, JS)  
 - On Photography (Photography, Editing, Website Dev)  
 
 ## Technical Skills
