@@ -1,4 +1,4 @@
-^%# Computer Science Student @ Georgia Tech (Information Internetworks & Media)
+# Computer Science Student @ Georgia Tech (Information Internetworks & Media)
 
 ## Education
 - B.S. Computer Science, Georgia Institute of Technology  
