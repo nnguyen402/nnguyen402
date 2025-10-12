@@ -1,4 +1,4 @@
-# Computer Science Student @ Georgia Tech (Information Internetworks & Media)
+^%# Computer Science Student @ Georgia Tech (Information Internetworks & Media)
 
 ## Education
 - B.S. Computer Science, Georgia Institute of Technology  
@@ -35,7 +35,6 @@
 - Gaming  
 - Music
 
-## Song
+## Spotify
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB?si=efddb960db5549f4)
-
+[![What I am Listening to!](https://spotify-github-profile.kittinanx.com/api/view?uid=g7da8ica1rxvv4xxk6n47c2eu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
