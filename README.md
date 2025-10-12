@@ -13,12 +13,11 @@
 
 ## Projects
 - (IP) Marta Route Analysis w/ React (React, TypeScript, Marta API)
-- Pokedex w/ React (React, TypeScript, Pokemon API)
+- [Pokedex](https://github.com/BoG-Dev-Bootcamp-F25/bootcamp-f25-nnguyen402/tree/main/exer5) w/ React (React, TypeScript, Pokemon API)
 - PathFinder HackGT12 (Next.js, React, TypeScript, Node.js, Google Maps API, Arduino)
 - Habit Tracker App (Python, JSON, CLI)  
 - Spotify Roaster (Django, Tailwind, JS, Python, Spotify API)  
-- Atlanta Food Finder ( Django, Google Maps API, JS)  
-- On Photography (Photography, Editing, Website Dev)  
+- Atlanta Food Finder ( Django, Google Maps API, JS)
 
 ## Technical Skills
 - **Languages**: Java, Python, C, C++, C#, JavaScript, HTML/CSS, Assembly  
