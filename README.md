@@ -12,7 +12,7 @@
 - IT Intern @ Lovin Elementary School (2021)  
 
 ## Projects
-- (IP) [Marta Route Analysis](https://github.com/BoG-Dev-Bootcamp-F25/project1-f25-NathanN) (React, Vite, TypeScript, Marta API, Tailwind CSS)
+- (IP) [Marta Interface](https://github.com/BoG-Dev-Bootcamp-F25/project1-f25-NathanN) (React, Vite, TypeScript, Marta API, Tailwind CSS)
 - [Pokedex](https://github.com/BoG-Dev-Bootcamp-F25/bootcamp-f25-nnguyen402/tree/main/exer5) (React, JavaScript, Pokemon API, Tailwind CSS)
 - [PathFinder](https://github.com/nnguyen402/HackGT2025) HackGT12 (Next.js, React, TypeScript, Node.js, Google Maps API, Arduino)
 - [Habit Tracker App](https://github.com/nnguyen402/habit_tracker) (Python, JSON, CLI)  
