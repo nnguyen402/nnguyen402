@@ -34,6 +34,7 @@
 - Photography  
 - Gaming  
 - Music
+- Cooking
 
 ## Spotify
 
