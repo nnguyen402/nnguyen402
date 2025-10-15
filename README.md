@@ -21,9 +21,9 @@
 
 ## Technical Skills
 - **Languages**: Java, Python, C, C++, C#, TypeScript, JavaScript, HTML/CSS, Assembly  
-- **Frameworks**: Django, Tailwind CSS  
+- **Frameworks**: Django, React, Next.js, TailwindCSS   
 - **Libraries**: PyTorch, pandas, NumPy, Matplotlib  
-- **Dev Tools**: Git, Docker  
+- **Dev Tools**: Git, Docker, Vite  
 
 ## Certifications
 - Google IT Support (Coursera)  
