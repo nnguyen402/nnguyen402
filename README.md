@@ -20,7 +20,7 @@
 - [Atlanta Food Finder](https://github.com/gumpshroom/FoodReview2340) (Django, Google Maps API, JS)
 
 ## Technical Skills
-- **Languages**: Java, Python, C, C++, C#, JavaScript, HTML/CSS, Assembly  
+- **Languages**: Java, Python, C, C++, C#, TypeScript, JavaScript, HTML/CSS, Assembly  
 - **Frameworks**: Django, Tailwind CSS  
 - **Libraries**: PyTorch, pandas, NumPy, Matplotlib  
 - **Dev Tools**: Git, Docker  
