@@ -14,7 +14,7 @@
 ## Projects
 - [Marta Interface](https://github.com/BoG-Dev-Bootcamp-F25/project1-f25-NathanN) (React, Vite, TypeScript, Marta API, Tailwind CSS)
 - [Pokedex](https://github.com/BoG-Dev-Bootcamp-F25/bootcamp-f25-nnguyen402/tree/main/exer5) (React, JavaScript, Pokemon API, Tailwind CSS)
-- [PathFinder](https://github.com/nnguyen402/HackGT2025) HackGT12 (Next.js, React, TypeScript, Node.js, Google Maps API, Arduino)
+- [PathFinder (HackGT12)](https://github.com/nnguyen402/HackGT2025) (Next.js, React, TypeScript, Node.js, Google Maps API, Arduino)
 - [Habit Tracker App](https://github.com/nnguyen402/habit_tracker) (Python, JSON, CLI)  
 - [Spotify Roaster](https://github.com/gumpshroom/spotifyRoasted) (Django, Tailwind, JS, Python, Spotify API)  
 - [Atlanta Food Finder](https://github.com/gumpshroom/FoodReview2340) (Django, Google Maps API, JS)
