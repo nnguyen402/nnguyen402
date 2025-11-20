@@ -20,8 +20,7 @@
 
 ## Technical Skills
 - **Languages**: Java, Python, C, C++, C#, TypeScript, JavaScript, HTML/CSS, Assembly  
-- **Frameworks**: Django, React, Next.js, TailwindCSS   
-- **Libraries**: PyTorch, pandas, NumPy, Matplotlib  
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, Django, PyTorch, TailwindCSS 
 - **Dev Tools**: Git, Docker, Vite  
 
 ## Certifications
