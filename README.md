@@ -10,6 +10,8 @@
 - IT Intern @ Lovin Elementary School (2021)  
 
 ## Projects
+- BuzzFinder (IP) (Next.js, React, TypeScript, MongoDB, Microsoft Entra AKA Azure AD, Google Maps API)
+- Mechatronics & Motivation (IP)
 - [Animal Training App](https://github.com/BoG-Dev-Bootcamp-F25/project2-f25-RJNA) (Next.js, React, TypeScript, MongoDB, TailwindCSS, Argon)
 - [Marta Interface](https://github.com/BoG-Dev-Bootcamp-F25/project1-f25-NathanN) (React, Vite, TypeScript, Marta API, Tailwind CSS)
 - [Pokedex](https://github.com/BoG-Dev-Bootcamp-F25/bootcamp-f25-nnguyen402/tree/main/exer5) (React, JavaScript, Pokemon API, Tailwind CSS)
